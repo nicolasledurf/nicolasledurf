@@ -4,7 +4,8 @@
 - 🪴 Estudando Fundamentos de Rede.
 <div>
 <a href='https://github.com/nicolasledurf/'>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasledurf)](https://github.com/anuraghazra/github-readme-stats)
+  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=nicolasledurf'>
+  <img height='180em' src= 'https://github.com/nicolasledurf/github-readme-stats'>
 </div>
 
 
