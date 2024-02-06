@@ -7,5 +7,8 @@
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=nicolasledurf&show_icons=true&theme=transparent'>
 </div>
 
-
+#Linguagens mais usadas
+<div>
+  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasledurf'>
+</div>
   
